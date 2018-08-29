@@ -68,7 +68,7 @@ export const pageQuery = graphql`
               maxWidth: 1180
               maxHeight: 480
               resizingBehavior: PAD
-              background: "rgb:000000"
+              background: "rgb:ffffff"
             ) {
               ...GatsbyContentfulSizes_withWebp
             }
